@@ -24,6 +24,7 @@ Empowering CRM administrators, IT operations managers, site reliability engineer
 - [⚡ Open-Source GitHub Projects](#-open-source-github-projects)
 - [🛠️ Architectural Blueprints & Stacks](#️-architectural-blueprints--stacks)
 - [🤝 How to Contribute](#-how-to-contribute)
+- [💖 Support & Sponsorship](#-support--sponsorship)
 - [⭐ Star History](#-star-history)
 - [📜 License & Disclaimer](#-license--disclaimer)
 
@@ -165,6 +166,16 @@ Contributions are highly appreciated! Help keep this ecosystem comprehensive, ac
    - Provide repository links and appropriate star badges for open-source entries.
 4. 🚀 Commit your improvements: `git commit -m "Add <Tool-Name> to mobile CRM ecosystem"`.
 5. 📤 Push to your fork and submit a **Pull Request**.
+
+---
+
+## 💖 Support & Sponsorship
+
+Thank you for exploring and using this repository! If you find this curated ecosystem list and architecture guide helpful for your mobile CRM administration workflows or open-source projects, please consider supporting the project:
+
+- ⭐ **Star this repository** on GitHub to show your appreciation and help others discover it.
+- 🔀 **Fork & Share** it with your colleagues, DevOps teams, and mobile CRM communities.
+- ☕ **Buy me a coffee / Sponsor**: You can sponsor ongoing maintenance and open-source updates via the [Sponsor Dashboard](https://github.com/sponsors/ishandutta2007) <!-- https://github.com/sponsoss/ishandutta2007 -->.
 
 ---
 
