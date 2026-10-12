@@ -72,7 +72,7 @@ The market displays a **bifurcated competitive structure**:
 
 ## ⚡ Open-Source GitHub Projects
 
-*Sorted in descending order by GitHub repository star counts. Star badges link directly to the repository's stargazers page.*
+*Sorted in descending order by GitHub repository Stars_Counts. Stars_Badges link directly to the repository's stargazers page.*
 
 - **[Strapi](https://github.com/strapi/strapi)** [![Stars](https://img.shields.io/github/stars/strapi/strapi?style=social&color=white)](https://github.com/strapi/strapi/stargazers)  
   Leading open-source headless CMS and API admin backend with granular role-based access control (RBAC), responsive administrative console, and auto-generated REST/GraphQL endpoints for mobile clients.
@@ -163,7 +163,7 @@ Contributions are highly appreciated! Help keep this ecosystem comprehensive, ac
 2. 🌿 Create a feature branch: `git checkout -b feature/add-new-tool`.
 3. 📝 Update `README.md` following the established table / list format:
    - Provide verified pricing and exact free trial / free tier terms for SaaS entries.
-   - Provide repository links and appropriate star badges for open-source entries.
+   - Provide repository links and appropriate Stars_Badges for open-source entries.
 4. 🚀 Commit your improvements: `git commit -m "Add <Tool-Name> to mobile CRM ecosystem"`.
 5. 📤 Push to your fork and submit a **Pull Request**.
 
